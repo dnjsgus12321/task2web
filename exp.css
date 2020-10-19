@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+img {
+	width : 800px;
+	height: 450px;
+	object-fit: cover;
+}
+
+h2 {
+	font-size: x-large;
+	line-height: 1.7
+}
+
+h3 {
+	font-size: large;
+	font-weight: bold;
+	line-height: 1.5
